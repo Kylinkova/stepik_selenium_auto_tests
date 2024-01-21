@@ -1,1 +1,1 @@
-# stepik_selenium_auto_tests
+# stp_selenium_auto_tests
